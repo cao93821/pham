@@ -1,0 +1,61 @@
+linux  
+data 显示日期  
+cal 显示日历  
+bc 计算器  
+[tab] 补全命令及文档名  
+[Ctrl]-c 停止当前程序  
+[Ctrl]-d 键盘输入结束和exit  
+man 查看文档  
+sync 数据同步写入磁盘  
+shutdown 关机  
+chgrp 改变成见的所属群组  
+chown 改变文件拥有者  
+chmod 改变文件的权限  
+cd 变换目录  
+pwd 显示当前目录  
+mkdir 建立新目录  
+rmdir 删除空目录  
+ls 显示文档和目录  
+cp 复制文档和目录  
+rm 移除文旦和目录 -r递归删除 -i删除时进行询问  
+mv 移动档案和目录，或者更名  
+basename,dirname 取得路径的文件名与目录名  
+cat 由第一行开始显示文档内容（即将文档内容传输至标准输出）-n显示行号（空白行也有行号）  
+tac 由最后一行开始显示文档内容  
+nl 显示文档内容并输出行号  
+more 一页一页地显示内容  
+less 一页一页地显示内容，并且可以往前翻页，更好用了  
+head 只看头几行 -n看的行数  
+tail 只看尾几行 -n看的行数  
+touch 修改文档时间或建立新的档案  
+file 观察文档类型  
+which 根据用户设定的PATH去寻找可执行文件的地址  
+whereis,locate,find 寻找任意文档的地址(重点学习一下)  
+gzip,zcat 压缩文件或解压缩文件  
+tar 压缩文件或读取压缩文件  
+dd 转换和复制文件，通常用来复制iso文件到一个usb设备中去  
+history 显示执行过的所有命令的历史  
+sudo 允许授权用户执行超级用户或者其他用户的命令  
+apt 包管理器命令  
+adduser,addgroup 增加用户和用户组  
+clear 清屏  
+cmp 文件比对byte-by-byte  
+diff 文件比对line-by-line  
+echo 将标准输入的内容输出至标准输出  
+eject 弹出设备  
+env 查看用户的环境变量  
+exit 退出  
+grep 文件内内容搜索  
+groups 显示当前用户组  
+kill 通过进程id杀进程  
+killall 通过进程名杀进程  
+passwd 修改密码  
+ping 查看ip地址的连接信息  
+ssh 进行ssh连接  
+crontab 执行任务计划
+sort 排序
+
+
+
+
+
