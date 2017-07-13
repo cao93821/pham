@@ -53,8 +53,13 @@ passwd 修改密码
 ping 查看ip地址的连接信息  
 ssh 进行ssh连接  
 crontab 执行任务计划
-sort 排序
+sort 排序  
 
+### 【github】
+1. 上传代码 git push origin master
+2. 添加文件 git add
+3. 提交更改 git commit -m ""
+4. 查看状态 git status
 
 
 

@@ -5,7 +5,6 @@ The minigame 2048 in python
 """
 import random
 
-
 def init():
     """
     initialize a 2048 matrix. return a matrix list
@@ -179,3 +178,4 @@ def play():
 
 if __name__ == '__main__':
     play()
+    
